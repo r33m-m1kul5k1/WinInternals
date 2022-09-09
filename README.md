@@ -1,2 +1,3 @@
 # Windows Internals
-a repo full of readmes about windows internals
+
+a repo full of CTFs and research readmes about windows
